@@ -1,0 +1,13 @@
+# Generated results and solver work
+/outputs/*
+!/outputs/.gitkeep
+
+# MATLAB editor and crash files
+*.asv
+*.m~
+matlab_crash_dump*
+java.log*
+
+# Local operating-system files
+Thumbs.db
+.DS_Store
